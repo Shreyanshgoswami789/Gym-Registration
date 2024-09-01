@@ -1,4 +1,12 @@
-The Gym Registration UI is a web-based interface that simplifies the registration process for gym members. It allows users to sign up for memberships, manage profiles, and view membership details. With features like responsive design, payment integration, and an admin dashboard, it ensures a seamless experience for both users and administrators.
+The frontend for the Gym Registration system provides an intuitive and responsive interface for users to easily sign up for gym memberships, manage their profiles, and select membership plans. Designed with modern web technologies, it ensures a smooth and efficient user experience, making the registration process quick and hassle-free.
+
+
+
+
+
+
+
+
 
 
 
